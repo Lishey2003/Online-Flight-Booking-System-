@@ -3,7 +3,6 @@
 using namespace std;
 
 const int MAX_P = 5;
-static int data = 1;
 void displayTitle()
 {
     cout << "=====================================" << endl;
